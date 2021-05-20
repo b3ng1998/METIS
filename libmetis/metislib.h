@@ -14,7 +14,7 @@
 #ifndef _LIBMETIS_METISLIB_H_
 #define _LIBMETIS_METISLIB_H_
 
-#include "GKlib.h"
+#include <GKlib.h>
 
 #if defined(ENABLE_OPENMP)
   #include <omp.h>
